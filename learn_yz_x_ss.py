@@ -6,7 +6,6 @@ import scipy.stats
 import anglepy.paramgraphics as paramgraphics
 import anglepy.ndict as ndict
 
-from anglepy.sfo import SFO
 from adam import AdaM
 
 import theano
